@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Programming, React, Frontend Development.**
 
-- ⚡ Fun fact **I Think I am bohurupi 😅**
+- ⚡ Fun fact **I Think I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

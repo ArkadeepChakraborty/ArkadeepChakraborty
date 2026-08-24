@@ -52,12 +52,12 @@
 
 ### 📈 GitHub Analytics
 
-<table border="0">
+<table style="border: none;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arkadeepchakraborty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arkadeepchakraborty&show_icons=true&locale=en" alt="Stats" />
     </td>
   </tr>

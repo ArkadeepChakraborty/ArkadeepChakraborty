@@ -48,23 +48,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/ArkadeepChakraborty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkadeepChakraborty&repo=movie-ticket-booking&theme=react" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/ArkadeepChakraborty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArkadeepChakraborty&repo=intelligent-tutoring-system&theme=react" alt="Featured Project 2" />
-  </a>
-</p>
-
-*(Note: Update `repo=...` in the links above with your exact repository names).*
-
----
-
 ### 📈 GitHub Analytics
 
 <p align="left">
@@ -74,10 +57,4 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArkadeepChakraborty&theme=react-dark" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkadeepchakraborty" alt="Streak Stats" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkadeepchakraborty&" alt="arkadeepchakraborty" /></p>

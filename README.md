@@ -52,10 +52,16 @@
 
 ### 📈 GitHub Analytics
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arkadeepchakraborty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arkadeepchakraborty&show_icons=true&locale=en" alt="Stats" />
-</p>
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arkadeepchakraborty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arkadeepchakraborty&show_icons=true&locale=en" alt="Stats" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
